@@ -1,6 +1,6 @@
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=C128F7&width=550&lines=Hello%2C;I+am+Thiyagarajah+Suthagar%2C;Welcome+to+my+Portfolio+!!!)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=C128F7&width=550&lines=Hello%2C;I+am+Thiyagarajah+Suthagar%2C;Welcome+to+my+Portfolio+!!!)](https://git.io/typing-svg">
 </div>
 
 <div align="center">
