@@ -1,9 +1,9 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=64&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thiyagarajah+Suthagar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?size=32&color=C128F7&center=true&vCenter=true&lines=Hello%2C;I+am+Thiyagarajah+Suthagar%2C;Welcome+to+my+Portfolio+!!!" />
 </h1>
 
-#(https://readme-typing-svg.herokuapp.com/demo/?size=32&color=C128F7&center=true&vCenter=true&lines=Hello%2C;I+am+Thiyagarajah+Suthagar%2C;Welcome+to+my+Portfolio+!!!)
+#()
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
