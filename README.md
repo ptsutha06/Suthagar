@@ -3,14 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/demo/?size=32&color=C128F7&center=true&vCenter=true&lines=Hello%2C;I+am+Thiyagarajah+Suthagar%2C;Welcome+to+my+Portfolio+!!!" />
 </h1>
 
-#()
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Hi, I'm Gobihanath Balasubramaniam, a passionate student currently pursuing my degree in Information Systems.</div>  
+### <div align="center">Hi, I'm Thiyagarajah Suthagar, a passionate student currently pursuing my degree in Information Systems.</div>  
   
 
  💻🔎 I'm enthusiastic about Machine Learning and Artificial Intelligence  
