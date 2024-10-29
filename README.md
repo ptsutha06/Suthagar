@@ -1,17 +1,13 @@
-
+<hr>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=C128F7&width=550&lines=Hello%2C;I+am+Thiyagarajah+Suthagar%2C;Welcome+to+my+Portfolio+!!!">
 </div>
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<hr>
+<div align="center">Hi, I'm Thiyagarajah Suthagar, a passionate student currently pursuing my degree in Quantity Surveying and Information Systems.</div>  
+<br> <hr> <br>
   
 
-### <div align="center">Hi, I'm Thiyagarajah Suthagar, a passionate student currently pursuing my degree in Information Systems.</div>  
-  
-
- 💻🔎 I'm enthusiastic about Machine Learning and Artificial Intelligence  
+ 🏗️👷🏻‍♂️ I'm enthusiastic about Quantity Surveying in Construction  
   
 
  📱🌐 I’m currently learning and have a keen interest in web development and mobile app development.💥  
@@ -31,7 +27,7 @@
 
 ### Programming Languages
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -89,16 +85,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Gobihanath" target="_blank">
+<a href="https://github.com/ptusutha06" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/gobihanath-balasubramaniam-958a61227/" target="_blank">
+<a href="https://www.linkedin.com/in/thiyagarajah-suthagar-0904a1206?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEpi9kkYuSf2Oeuz6dKc9EA%3D%3D" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/gobihanath.balasubramaniam" target="_blank">
+<a href="https://www.facebook.com/thiyagarajah.suthagar.5?mibextid=LQQJ4d" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/dhoni_gobi_7?igsh=MWFuZTFkZ3FpcnViaw==" target="_blank">
+<a href="https://www.instagram.com/_suthat_06/profilecard" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
