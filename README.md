@@ -7,13 +7,13 @@
 <br> <hr> <br>
   
 
- 🏗️👷🏻‍♂️ I'm enthusiastic about Quantity Surveying in Construction  
+ 🏗️👷🏻‍♂️ I'm enthusiastic about Quantity Surveying in Construction Industry and Deveoper in 🌐 IT industry.
   
 
- 📱🌐 I’m currently learning and have a keen interest in web development and mobile app development.💥  
+💡 I’m currently learning and have a keen interest in Machine Learning 🤖 and mobile app development. 📱
   
 
- 💣 I'm eager to contribute to innovative projects and continually expand my skills in the industry.  
+ 💣 Passionate about contributing to innovative projects and expanding my industry skills. 
   
 
   😀 Feel free to check out my repositories and connect with me!  
@@ -21,13 +21,49 @@
 
 <br/>  
 
-## My Skill Set
+# My Skill Set
+
+<p>Experienced in Quantity Surveying, project management, and contract procedures, I bring expertise in CAD/BIM (AutoCAD, Revit), quantification standards (CESMM4, SMM7), and cost analysis (PlanSwift, CostX). Skilled in software development with proficiency in Python, JavaScript, and AI/ML (TensorFlow, Scikit-Learn), I am passionate about building impactful, tech-driven solutions for the construction industry. </p>
+<br/>  
+
+## Quantity Surveying
+### Measurement and Quantification
+
+![SLS_573](https://img.shields.io/badge/SLS_573-3776AB?style=for-the-badge&logo=SLS_573&logoColor=white)
+![NRM](https://img.shields.io/badge/NRM-3776AB?style=for-the-badge&logo=NRM&logoColor=white)
+![CESMM4](https://img.shields.io/badge/CESMM4-3776AB?style=for-the-badge&logo=CESMM4&logoColor=white)
+![POMI](https://img.shields.io/badge/POMI-3776AB?style=for-the-badge&logo=POMI&logoColor=white)
+![SMM7](https://img.shields.io/badge/SMM7-3776AB?style=for-the-badge&logo=SMM7&logoColor=white)
+
+### Taking off
+![PlanSwift](https://img.shields.io/badge/PlanSwift-00599C?style=for-the-badge&logo=PlanSwift&logoColor=white)
+![GlodanCubicost](https://img.shields.io/badge/GlodanCubicost-00599C?style=for-the-badge&logo=GlodanCubicost&logoColor=white)
+![CostX](https://img.shields.io/badge/CostX-00599C?style=for-the-badge&logo=CostX&logoColor=white)
+![BlueBeam](https://img.shields.io/badge/BlueBeam-00599C?style=for-the-badge&logo=BlueBeam&logoColor=white)
 
 
+### Project Management 
+![MS Project](https://img.shields.io/badge/MS_Project-323330?style=for-the-badge&logo=MS_Project&logoColor=F7DF1E)
+![Libre Office](https://img.shields.io/badge/Libre_Office-323330?style=for-the-badge&logo=Libre_Office&logoColor=F7DF1E)
+
+### Contract Procedure
+![SBD](https://img.shields.io/badge/SBD-E34F26?style=for-the-badge&logo=SBD&logoColor=white)
+![FIDIC](https://img.shields.io/badge/FIDIC-E34F26?style=for-the-badge&logo=FIDIC&logoColor=white)
+
+### Computer Aided Software
+![AutoCAD](https://img.shields.io/badge/AutoCAD-339933?style=for-the-badge&logo=AutoCAD&logoColor=white)
+![LibreCAD](https://img.shields.io/badge/LibreCAD-339933?style=for-the-badge&logo=LibreCAD&logoColor=white)
+
+### BIM
+![REVIT](https://img.shields.io/badge/REVIT-5C3EE8?style=for-the-badge&logo=REVIT&logoColor=white)
+
+<br/>  
+
+## Information Technology
 
 ### Programming Languages
 
-![python](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
